@@ -65,3 +65,7 @@ if not using the GUI, you have to create this path yourself.
 ```bash
 {"COM_PORT":"COM3","flip":false,"POT1":"Spotify.exe","POT2":"chrome.exe, firefox.exe","POT3":"Discord.exe","POT4":"example.exe, example2.exe"}
 ```
+
+# TODO
+### Add source code for the driver
+### Add source code for the GUI
