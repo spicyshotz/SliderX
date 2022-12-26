@@ -23,7 +23,8 @@ without stopping whatever you're doing!
 
 ------------
 ![IMG](https://i.imgur.com/9H8YM1x.png)
-#### SliderX Driver is what actually controls the volume of the selected programs based on physical potentiometer values. Written in Python.
+#### SliderX Driver is what actually controls the volume of the selected programs based on physical potentiometer values. Written in Python. <br />
+#### While I call it a driver, It's just a regular program running in your system tray.
 ------------
 # How It Works
 SliderX is a program that is written in Python that controls the volume of programs based on
