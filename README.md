@@ -5,7 +5,7 @@ Seamlessly control the volume of your music player, Such as Spotify, your voice 
 without stopping whatever you're doing!
 
 ------------
-[How it works](#how_it_works) <br />
+[How it works](#how-it-works) <br />
 [Installation](#installation) <br />
 [FAQ](#faq)
 
