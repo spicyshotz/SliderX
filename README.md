@@ -3,6 +3,7 @@
 Control the volume of your Windows programs with physical sliders!
 Seamlessly control the volume of your music player, Such as Spotify, your voice chat, Such as Discord and your game
 without stopping whatever you're doing!
+##### Updated 12/26/2022
 
 ------------
 [How it works](#how-it-works) <br />
