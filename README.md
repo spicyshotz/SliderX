@@ -16,7 +16,7 @@ without stopping whatever you're doing!
 
 
 ![IMG](https://i.imgur.com/CNiqJJr.png)
-![IMG](https://i.imgur.com/A8xBqW0.png)
+![IMG](https://i.imgur.com/QjUbbNw.gif)
 ![IMG](https://i.imgur.com/W9QA54D.png)
 
 
