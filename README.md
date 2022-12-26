@@ -1,5 +1,5 @@
 # SliderX
-
+![IMG](https://i.imgur.com/lTktL4X.png)
 Control the volume of your Windows programs with physical sliders!
 Seamlessly control the volume of your music player, Such as Spotify, your voice chat, Such as Discord and your game
 without stopping whatever you're doing!
