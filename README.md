@@ -15,7 +15,7 @@ without stopping whatever you're doing!
 
 ![IMG](https://i.imgur.com/873Og9d.png)
 ------------
-#### SliderX GUI provides a Graphical User Interface to quickly edit the programs you wish to control with your mixer.
+#### SliderX GUI provides a Graphical User Interface to quickly edit the programs you wish to control with your mixer. Made in Unity.
 ------------
 ![IMG](https://i.imgur.com/CNiqJJr.png)
 ![IMG](https://i.imgur.com/QjUbbNw.gif)
@@ -23,7 +23,7 @@ without stopping whatever you're doing!
 
 ------------
 ![IMG](https://i.imgur.com/9H8YM1x.png)
-#### SliderX Driver is what actually controls the volume of the selected programs based on physical potentiometer values.
+#### SliderX Driver is what actually controls the volume of the selected programs based on physical potentiometer values. Written in Python.
 ------------
 # How It Works
 SliderX is a program that is written in Python that controls the volume of programs based on
