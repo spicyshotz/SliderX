@@ -68,5 +68,4 @@ if not using the GUI, you have to create this path yourself.
 ```
 
 # TODO
-### Add source code for the driver
 ### Add source code for the GUI
