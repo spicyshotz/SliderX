@@ -5,32 +5,53 @@ Seamlessly control the volume of your music player, Such as Spotify, your voice 
 without stopping whatever you're doing!
 
 
-![IMG](https://i.imgur.com/sRiuL5b.jpg)
+![IMG](https://i.imgur.com/CNiqJJr.png)
+![IMG](https://i.imgur.com/A8xBqW0.png)
+![IMG](https://i.imgur.com/W9QA54D.png)
 
 
 
-## How It Works
-SliderX is a software that is written in Python that controls the volume of programs based on
+# How It Works
+SliderX is a program that is written in Python that controls the volume of programs based on
 potentiometer values sent from Arduino hardware.
 
-![IMG](https://i.imgur.com/3h0rspq.jpeg)
 
 
-## Installation
+# Installation
 
-TODO
+#### Optional:
 
 ```bash
-  Lorem ipsum dolor sit amet,
-  consectetur adipiscing elit.
+  Download the installer from release which will install both the driver and the GUI
+  interface automatically.
 ```
+#### Else:
+Download SliderX "Driver":
+
+```bash
+  Download "slide.exe" from release
+```
+Download SliderX GUI:
+
+```bash
+  Download "SliderXGUI.zip" from release
+```
+
     
-## FAQ
+# FAQ
 
-#### Question 1
+### Is the SliderX GUI necessary to use the program?
 
-Answer 1
+No, The GUI makes it easy to quickly edit the programs you wish to control with your mixer.
+but its optional as you can edit the JSON yourself.
 
-#### Question 2
-
-Answer 2
+### Where can I find the JSON
+```bash
+documents/sliderX/Settings.JSON
+```
+If using the GUI, the GUI will create this path and this file the first time.
+if not using the GUI, you have to create this path yourself.
+#### Settings.JSON structure:
+```bash
+{"COM_PORT":"COM3","flip":false,"POT1":"Spotify.exe","POT2":"chrome.exe, firefox.exe","POT3":"Discord.exe","POT4":"example.exe, example2.exe"}
+```
