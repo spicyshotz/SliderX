@@ -29,7 +29,7 @@ potentiometer values sent from Arduino hardware.
 
 # Installation
 
-#### Optional:
+#### Recommended:
 
 ```bash
   Download the installer from release which will install both the driver and the GUI
